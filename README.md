@@ -47,6 +47,8 @@ cd gridpix
 # Abra o arquivo index.html no navegador
 ```
 
+---
+
 🧰 Tecnologias utilizadas
 
 ✅ HTML5
