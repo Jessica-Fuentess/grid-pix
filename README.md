@@ -8,7 +8,7 @@ Este é um projeto de **portfólio de fotografia** desenvolvido com **HTML5** e 
 
 ## 🖼️ Demonstração
 
-🔗 *[Adicione aqui o link do GitHub Pages, caso publique]*
+🔗 *https://jessica-fuentess.github.io/grid-pix/*
 
 ![preview do layout](https://picsum.photos/1000/400?random=11)
 
