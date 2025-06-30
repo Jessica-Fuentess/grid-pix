@@ -49,7 +49,7 @@ cd gridpix
 
 ---
 
-🧰 Tecnologias utilizadas:
+## 🧰 Tecnologias utilizadas:
 
 ✅ HTML5
 
@@ -63,7 +63,7 @@ cd gridpix
 
 ---
 
-👩‍💻 Autora
+## 👩‍💻 Autora
 
 Desenvolvido por Jéssica Fuentes 💜
 
@@ -75,7 +75,8 @@ Desenvolvedora Front-end em transição de carreira, com foco em criação de in
 
 ---
 
-📄 Licença
+## 📄 Licença
+
 Este projeto está licenciado sob a Licença MIT – sinta-se à vontade para utilizá-lo e modificá-lo!
 
 ---
