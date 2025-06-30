@@ -48,10 +48,15 @@ cd gridpix
 ```
 
 🧰 Tecnologias utilizadas
+
 ✅ HTML5
+
 ✅ CSS3
+
 ✅ CSS Grid Layout
+
 ✅ Media Queries
+
 ✅ Efeitos com CSS (transitions)
 
 👩‍💻 Autora
@@ -62,7 +67,11 @@ Desenvolvedora Front-end em transição de carreira, com foco em criação de in
 
 🔗 GitHub: github.com/Jessica-Fuentess 
 
+---
+
 📄 Licença
 Este projeto está licenciado sob a Licença MIT – sinta-se à vontade para utilizá-lo e modificá-lo!
+
+---
 
 ✨ Obrigada por visitar este projeto! Se tiver feedbacks, sugestões ou quiser trocar ideias, estou à disposição. 😊
