@@ -8,7 +8,7 @@ Este é um projeto de **portfólio de fotografia** desenvolvido com **HTML5** e 
 
 ## 🖼️ Demonstração
 
-🔗 *https://jessica-fuentess.github.io/grid-pix/*
+🔗 [Acesse o site](https://jessica-fuentess.github.io/grid-pix/)
 
 ---
 
@@ -59,13 +59,15 @@ cd gridpix
 
 ✅ Efeitos com CSS (transitions)
 
+---
+
 👩‍💻 Autora
 Desenvolvido por Jéssica Fuentes 💜
 Desenvolvedora Front-end em transição de carreira, com foco em criação de interfaces responsivas, acessíveis e modernas.
 
-🔗 LinkedIn: https://www.linkedin.com/in/j%C3%A9ssica-fuentes/
+🔗 [LinkedIn](https://www.linkedin.com/in/j%C3%A9ssica-fuentes/)
 
-🔗 GitHub: github.com/Jessica-Fuentess 
+🔗 [GitHub](https://github.com/Jessica-Fuentess) 
 
 ---
 
