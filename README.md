@@ -49,7 +49,7 @@ cd gridpix
 
 ---
 
-## 🧰 Tecnologias utilizadas:
+## 🧰 Tecnologias utilizadas
 
 ✅ HTML5
 
