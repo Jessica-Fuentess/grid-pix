@@ -10,8 +10,6 @@ Este é um projeto de **portfólio de fotografia** desenvolvido com **HTML5** e 
 
 🔗 *https://jessica-fuentess.github.io/grid-pix/*
 
-![preview do layout](https://picsum.photos/1000/400?random=11)
-
 ---
 
 ## 📁 Estrutura do Projeto
