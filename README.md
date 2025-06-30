@@ -57,7 +57,9 @@ cd gridpix
 👩‍💻 Autora
 Desenvolvido por Jéssica Fuentes 💜
 Desenvolvedora Front-end em transição de carreira, com foco em criação de interfaces responsivas, acessíveis e modernas.
+
 🔗 LinkedIn: https://www.linkedin.com/in/j%C3%A9ssica-fuentes/
+
 🔗 GitHub: github.com/Jessica-Fuentess 
 
 📄 Licença
